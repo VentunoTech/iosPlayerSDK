@@ -1,0 +1,6 @@
+framework module VentunoSDK {
+  umbrella header "VentunoSDK.h"
+
+  export *
+  module * { export * }
+}
