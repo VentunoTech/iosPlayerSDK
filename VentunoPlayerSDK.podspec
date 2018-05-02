@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "VentunoPlayerSDK"
-  s.version      = "0.0.1"
+  s.version      = "1.0.1"
   s.summary      = "Ventuno provides player which can be embbed into publisher app using VentunoPlayerSDK."
 
   # This description is used to generate tags and improve search results.
@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   #   * Try to keep it short, snappy and to the point.
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
-  s.description  = "Ventuno provides player which can be embbed into publisher app using VentunoPlayerSDK. Ventuno Player SDK is base tool for integrating ventuno player into your app"
+  #s.description  = "Ventuno provides player which can be embbed into publisher app using VentunoPlayerSDK. Ventuno Player SDK is base tool for integrating ventuno player into your app"
 
   s.homepage     = "http://www.ventunotech.com/"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
